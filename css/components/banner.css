@@ -1,0 +1,22 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("https://images.unsplash.com/photo-1528642474498-1af0c17fd8c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGVvcGxlfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=800&q=60");
+  width: 100vw;
+  height: 400px;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.banner h1 {
+  color:antiquewhite;
+  margin: 0;
+  padding: 120px 0 10px 0;
+  font-size: 3rem;
+}
+
+.banner p {
+  color:antiquewhite;
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin-bottom: 50px;
+
+}

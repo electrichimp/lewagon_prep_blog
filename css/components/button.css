@@ -1,0 +1,17 @@
+.btn-white {
+  background-color: antiquewhite;
+  color:DarkSlateGray;
+  font-weight: 600;
+  padding: 10px 15px;
+  border: 2px solid DarkSlateGray;
+  border-radius: 5px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.btn-white:hover {
+  background-color: DarkSlateGray;
+  color:antiquewhite;
+  font-weight: 600;
+  padding: 10px 15px;
+  border: 2px solid antiquewhite;
+}
